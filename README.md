@@ -6,6 +6,9 @@ Servidor de descubrimiento de servicios (Service Registry) para la plataforma.
 ## Endpoints
 No expone endpoints de negocio (servicio de infraestructura).
 
+## Nota
+El `docker-compose.yml` del entorno esta en (`yanki-service`).
+
 ## Proyectos relacionados
 - https://github.com/vjoyaroj/bank-config-repo
 - https://github.com/vjoyaroj/microservices-config
